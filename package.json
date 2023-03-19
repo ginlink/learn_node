@@ -1,0 +1,13 @@
+{
+  "name": "@ginlink/learn_node",
+  "version": "0.1.0",
+  "author": "ginlink",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^6.5.1"
+  }
+}
